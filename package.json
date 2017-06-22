@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MelindaHasselbring/liri-nodenodeApp.git"
+    "url": "git+https://github.com/MelindaHasselbring/liri-nodeApp.git"
   },
   "keywords": [
     "Liri",
@@ -24,9 +24,9 @@
   "author": "Melinda Hasselbring",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MelindaHasselbring/liri-nodenodeApp/issues"
+    "url": "https://github.com/MelindaHasselbring/liri-nodeApp/issues"
   },
-  "homepage": "https://github.com/MelindaHasselbring/liri-nodenodeApp#readme",
+  "homepage": "https://github.com/MelindaHasselbring/liri-nodeApp#readme",
   "devDependencies": {
     "inspect-process": "^0.4.2"
   },
