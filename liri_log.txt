@@ -1,0 +1,296 @@
+
+------------------------------------------------------------------------------------------------
+##############################2017-06-22 16:33:09
+------------------------------------------------------------------------------------------------
+ 1  ✨Want to understand async programming in #nodejs? @RisingStack has you covered: https://t.co/fzfzfRWVtY #nodehelp on Thu Jun 22 20:04:01 +0000 2017
+ 2  Find out how &amp; why Node.js is used everywhere in our upcoming webinar "Digital Transformation with Node.js" Info 👉… https://t.co/N2oZqW87Sk on Thu Jun 22 18:01:04 +0000 2017
+ 3  RT @NodeSource: Explicitly define licenses for your modules and projects. #nodehelp on Thu Jun 22 16:42:12 +0000 2017
+ 4  ✨Have Node.js tips or questions? Use #nodehelp!
+
+See @nodesource's article for a quick intro:… https://t.co/mCk9siZeL5 on Thu Jun 22 14:00:14 +0000 2017
+ 5  Ever wondered what #nodejs would sound like if the code was output like music? Well, here you go: https://t.co/sCNAvQJSl2 on Wed Jun 21 21:48:19 +0000 2017
+ 6  RT @AruneshC: New stable build of @nodejs with @ChakraCore is out /w latest security&amp;stability fixes from upstream. Check it out https://t.… on Wed Jun 21 17:30:23 +0000 2017
+ 7  A little blog about #nodejs and the cloud-native experience at DockerCon with the @NodeSource &amp; @codefresh team https://t.co/ga70p8yqyE on Wed Jun 21 17:30:02 +0000 2017
+ 8  📖 New book from the team @RisingStack: #nodejs monitoring, alerting and reliability 101. Download here: https://t.co/lPK5XXcG5A on Tue Jun 20 13:00:09 +0000 2017
+ 9  Upgrading from #nodejs 6 to Node.js 8: a real-world performance comparison from @D__Gilbertson 👀 👉… https://t.co/D3DIOjef7X on Mon Jun 19 16:09:03 +0000 2017
+ 10  We chatted with @dshaw &amp; @todaywasawesome about DockerCon, big take aways for #nodejs developers @ the event &amp; more… https://t.co/IsBKV2pbk2 on Mon Jun 19 12:00:09 +0000 2017
+ 11  ✨Nice tutorial on getting started with #AWS Lambda and #nodejs from the folks @RisingStack https://t.co/D7BLy7f671 on Fri Jun 16 18:06:02 +0000 2017
+ 12  Docs, Docs, Docs! Why documentation is so important and how to acquire it from @mikeal https://t.co/0UdsItvXXW https://t.co/LE9vHSq0IN on Fri Jun 16 17:04:03 +0000 2017
+ 13  How does #nodejs enable digital transformation? Join our webinar with @lowes on July 12 @ 11AM PT to learn more https://t.co/1CI6zGimbr on Fri Jun 16 15:00:10 +0000 2017
+ 14  RT @dburdese: Node.js 8: The First Week - DZone Web Dev #NodeJS @nodejs https://t.co/tVro5XUoCN https://t.co/ZklqyxbBlK on Fri Jun 16 13:15:21 +0000 2017
+ 15  RT @RisingStack: Node Friday! 🔥🎉
+
+* @nodejs v8.1.1 &amp; v8.1.2 released
+* Two-Factor Auth with Node
+* Habits of a Happy Node Hacker 2017
+https… on Fri Jun 16 13:14:58 +0000 2017
+ 16  For those who are thinking of making the move: Here's how to go from a hobbyist to a professional developer… https://t.co/MPRGMZnP5T on Fri Jun 16 12:30:04 +0000 2017
+ 17  RT @captainsafia: There are thousands of programmers who've come before you and thousands who'll come after you and none of them write code… on Thu Jun 15 21:18:28 +0000 2017
+ 18  📖 New book from the team @RisingStack: #nodejs monitoring, alerting and reliability 101. Download here: https://t.co/lPK5XXcG5A on Thu Jun 15 21:11:01 +0000 2017
+ 19  😀 We chatted with Monica Ene-Pietrosanu about @intel's use of Node.js and contributing to #opensource in this 🎥 https://t.co/fpb0HFl5tw on Thu Jun 15 20:03:01 +0000 2017
+ 20  What would the 🌎 look like without #JavaScript? @freeCodeCamp explores this alternate universe in this post https://t.co/ZOU3x2x4kI on Thu Jun 15 17:00:07 +0000 2017
+
+
+------------------------------------------------------------------------------------------------
+##############################2017-06-22 16:33:30
+------------------------------------------------------------------------------------------------
+Artist:      Clara Oaks
+Title:       The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/0290f8afdb653923587f64cba936aaf14a79ea96?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+----------------------------------------------------------
+Artist:      Mega Tracks Karaoke Band
+Title:       The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Preview URL: https://p.scdn.co/mp3-preview/b0a11e82616e34328a63914850ea338b69ef8fdc?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+----------------------------------------------------------
+Artist:      Pictomusic
+Title:       The Sign (Instrumental Karaoke Version) - Originally Performed By Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/8ce1ccfb237eda5132d25222ad37d16b32c088b7?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+----------------------------------------------------------
+Artist:      Sing Fire Karaoke
+Title:       The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/40e0a7a0082ed74593e30c80b0ddf94953f5ca20?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+----------------------------------------------------------
+Artist:      Sing Strike Karaoke
+Title:       The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Preview URL: https://p.scdn.co/mp3-preview/40e0a7a0082ed74593e30c80b0ddf94953f5ca20?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Sign (Karaoke Version) (Originally Performed By Ace Of Base)
+----------------------------------------------------------
+Artist:      The Karaoke Channel
+Title:       The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Preview URL: https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Karaoke Channel - Sing the Sign Like Ace of Base
+----------------------------------------------------------
+Artist:      Pictomusic
+Title:       The Sign (Karaoke Version With Background Vocals) - Originally Performed By Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/e70a664740a5be20d42f1adc6528e622bea596dd?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+----------------------------------------------------------
+Artist:      Roq Star Karaoke
+Title:       The Sign (Originally Performed by Ace Of Base) - Karaoke Version
+Preview URL: https://p.scdn.co/mp3-preview/40db9e5358e47bbff74f246c5fadfa47273e726e?cid=c4830db14a474fa2800255055b802dcf
+Album:       Karaoke - Ace of Base
+----------------------------------------------------------
+Artist:      Cooltone Karaoke
+Title:       The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Preview URL: https://p.scdn.co/mp3-preview/ff8c2e2f76ad32a3d68792c788e2535dfaacfd90?cid=c4830db14a474fa2800255055b802dcf
+Album:       Greatest Hits Karaoke: Ace of Base
+----------------------------------------------------------
+Artist:      Tom Arte
+Title:       The Sign (Originally Performed by Ace Of Base) - Karaoke Version
+Preview URL: https://p.scdn.co/mp3-preview/100baf5c26c4519285f98a4cd24e53159ce24c4d?cid=c4830db14a474fa2800255055b802dcf
+Album:       Best of Ace of Base (Karaoke Version)
+----------------------------------------------------------
+Artist:      Anne Regler
+Title:       The Sign (Karaoke Version) [Originally Performed By Ace Of Base]
+Preview URL: https://p.scdn.co/mp3-preview/d14ae51215b279ed2fb18a0dd6bd939aa6ae8f30?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Best Of Ace Of Base (Karaoke Version)
+----------------------------------------------------------
+Artist:      Sing Strike Karaoke
+Title:       The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Preview URL: https://p.scdn.co/mp3-preview/40e0a7a0082ed74593e30c80b0ddf94953f5ca20?cid=c4830db14a474fa2800255055b802dcf
+Album:       Karaoke In Style Of Ace Of Base
+----------------------------------------------------------
+Artist:      Anna Gramm
+Title:       The Sign (Karaoke Version) [Originally Performed By Ace Of Base]
+Preview URL: https://p.scdn.co/mp3-preview/d14ae51215b279ed2fb18a0dd6bd939aa6ae8f30?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Best Of Ace Of Base (Karaoke Version)
+----------------------------------------------------------
+Artist:      Ameritz Club
+Title:       The Sign (Karaoke Version) [Originally Performed By Ace of Base]
+Preview URL: https://p.scdn.co/mp3-preview/08813a25d5cb81e8ab0b8f97ed0f04ab0961bdd7?cid=c4830db14a474fa2800255055b802dcf
+Album:       Karaoke (In the Style of Ace of Base)
+----------------------------------------------------------
+Artist:      Mark Wood
+Title:       The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Preview URL: https://p.scdn.co/mp3-preview/ad21600a3510ab29f95b4c863f92aa8ba0d98fda?cid=c4830db14a474fa2800255055b802dcf
+Album:       Stagetraxx Karaoke: Sing the Hits of Ace Of Base (Karaoke Version)
+----------------------------------------------------------
+Artist:      Alta Marea
+Title:       The Sign - Originally Performed By Ace Of Base
+Preview URL: https://p.scdn.co/mp3-preview/82b9848cd90f256bb5c67b77ea425b5419b69b69?cid=c4830db14a474fa2800255055b802dcf
+Album:       Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+----------------------------------------------------------
+Artist:      Alta Marea
+Title:       The Sign - Originally Performed by Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/01586be05e21dc3b1b909afcd2147d8e9d5d5f3b?cid=c4830db14a474fa2800255055b802dcf
+Album:       Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+----------------------------------------------------------
+Artist:      Drunken Singers
+Title:       The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/f1c40057929377afddb719cc3396e81894ee7517?cid=c4830db14a474fa2800255055b802dcf
+Album:       Top Karaoke Hits of All Time, Vol. 3
+----------------------------------------------------------
+Artist:      Karaoke Collective
+Title:       The Sign (Originally Performed by Ace of Base) [Instrumental Version]
+Preview URL: https://p.scdn.co/mp3-preview/e497dad58ca09999a8822fc6934000126fe3a583?cid=c4830db14a474fa2800255055b802dcf
+Album:       A-Z of Karaoke - Songs That Start with "T" (Instrumental Version)
+----------------------------------------------------------
+Artist:      The Karaoke Crew
+Title:       The Sign (As Made Famous by Ace of Base)
+Preview URL: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=c4830db14a474fa2800255055b802dcf
+Album:       Drew's Famous # 1 Karaoke Hits: Sing the Hits of 1994
+----------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+##############################2017-06-22 16:33:43
+------------------------------------------------------------------------------------------------
+Title:                Undefined
+Year:                 2014
+IMDB Rating:          N/A
+Country:              Lebanon
+Language:             Arabic
+Plot:                 N/A
+Casts:                Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes URL:   https://www.i-haveNoClue.com#FoReals
+
+
+------------------------------------------------------------------------------------------------
+##############################2017-06-22 16:34:05
+------------------------------------------------------------------------------------------------
+Artist:      Backstreet Boys
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Hits--Chapter One
+----------------------------------------------------------
+Artist:      Backstreet Boys
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c4830db14a474fa2800255055b802dcf
+Album:       Millennium
+----------------------------------------------------------
+Artist:      Backstreet Boys
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Essential Backstreet Boys
+----------------------------------------------------------
+Artist:      Various Artists
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c4830db14a474fa2800255055b802dcf
+Album:       90 Sweet 90s Hits!
+----------------------------------------------------------
+Artist:      Glee Cast
+Title:       Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=c4830db14a474fa2800255055b802dcf
+Album:       Bye Bye Bye / I Want It That Way (Glee Cast Version)
+----------------------------------------------------------
+Artist:      Anthem Lights
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c4830db14a474fa2800255055b802dcf
+Album:       Covers Part IV
+----------------------------------------------------------
+Artist:      Various Artists
+Title:       I Want It That Way
+Preview URL: null
+Album:       Punk Goes Pop
+----------------------------------------------------------
+Artist:      Brittany Howard
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Jim James
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Kyle Olthoff
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      "Weird Al" Yankovic
+Title:       Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=c4830db14a474fa2800255055b802dcf
+Album:       Poodle Hat
+----------------------------------------------------------
+Artist:      Boyce Avenue
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=c4830db14a474fa2800255055b802dcf
+Album:       New Acoustic Sessions, Vol. 3
+----------------------------------------------------------
+Artist:      "Weird Al" Yankovic
+Title:       Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=c4830db14a474fa2800255055b802dcf
+Album:       The Essential "Weird Al" Yankovic
+----------------------------------------------------------
+Artist:      Steel Panther
+Title:       I Want It That Way
+Preview URL: null
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Landon Austin
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Julia Sheer
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Various Artists
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=c4830db14a474fa2800255055b802dcf
+Album:       NOW That's What I Call 90s Pop
+----------------------------------------------------------
+Artist:      NKOTBSB
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=c4830db14a474fa2800255055b802dcf
+Album:       NKOTBSB
+----------------------------------------------------------
+Artist:      Scott Bradlee's Postmodern Jukebox
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=c4830db14a474fa2800255055b802dcf
+Album:       Selfies on Kodachrome
+----------------------------------------------------------
+Artist:      Jason Chen
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Joseph Vincent
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way
+----------------------------------------------------------
+Artist:      Scott Bradlee's Postmodern Jukebox
+Title:       I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=c4830db14a474fa2800255055b802dcf
+Album:       PMJ Is For Lovers: The Love Song Collection
+----------------------------------------------------------
+Artist:      Kaiak
+Title:       I Want It That Way - Acoustic
+Preview URL: https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=c4830db14a474fa2800255055b802dcf
+Album:       I Want It That Way (Acoustic)
+----------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+##############################2017-06-22 16:34:13
+------------------------------------------------------------------------------------------------
+Title:                Thor
+Year:                 2011
+IMDB Rating:          7.0
+Country:              USA
+Language:             English
+Plot:                 The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
+Casts:                Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins
+Rotten Tomatoes URL:   https://www.i-haveNoClue.com#FoReals
+
+
+------------------------------------------------------------------------------------------------
+##############################2017-06-22 16:34:27
+------------------------------------------------------------------------------------------------
+Title:                Wonder Woman
+Year:                 2017
+IMDB Rating:          8.3
+Country:              USA, China, Hong Kong
+Language:             English, German
+Plot:                 Before she was Wonder Woman she was Diana, princess of the Amazons, trained warrior. When a pilot crashes and tells of conflict in the outside world, she leaves home to fight a war to end all wars, discovering her full powers and true destiny.
+Casts:                Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright
+Rotten Tomatoes URL:   https://www.i-haveNoClue.com#FoReals
+

@@ -1,5 +1,5 @@
 # liri-nodeApp
-10-node lessons
+Unit 10 assignment
 
 # Follow these to get started
 ## Installation Instructions
@@ -7,6 +7,10 @@
 Run the following command to install all dependencies 
 
     npm install
+
+Run the ff. command to install node-datetime dependency
+
+    npm install node-datetime --save
 
 ##Operations instructions
 

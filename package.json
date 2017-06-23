@@ -1,5 +1,5 @@
 {
-  "name": "liri-nodeApp",
+  "name": "liri-nodeapp",
   "version": "1.0.0",
   "description": "Coding Bootcamp HW",
   "main": "liri.js",
@@ -31,6 +31,7 @@
     "inspect-process": "^0.4.2"
   },
   "dependencies": {
+    "node-datetime": "^1.0.1",
     "node-spotify-api": "^1.0.5",
     "request": "^2.81.0",
     "twitter": "^1.7.1"
